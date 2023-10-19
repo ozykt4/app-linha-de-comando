@@ -8,4 +8,4 @@ Crei esse App de linha de comando que basicamete busca **IPs** e **servidores**.
 ![Exemplos de chamada de ip][def]
 
 
-[def]: img/ips_exemplos.png.png
+[def]: img/ips_exemplos.png
